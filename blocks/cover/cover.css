@@ -1,0 +1,21 @@
+.cover {
+    padding: 0 48px 92px;
+}
+
+@media (max-width: 1279px) {
+    .cover {
+        padding: 0 0 92px;
+    } 
+}
+
+@media (max-width: 1023px) {
+    .cover {
+        padding: 0 0 88px;
+    }
+}
+
+@media (max-width: 767px) {
+    .cover {
+        padding: 0 0 64px;
+    }
+}
