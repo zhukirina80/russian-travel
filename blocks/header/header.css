@@ -1,6 +1,5 @@
 .header {
     max-width: 1184px;
-    max-height: 52px;
     display: flex;
     flex-direction: row;
     align-items: center;
@@ -18,7 +17,6 @@
 
 @media (max-width: 767px) {
    .header {
-    max-height: 42px;
     padding: 16px 16px 0;
    } 
 }

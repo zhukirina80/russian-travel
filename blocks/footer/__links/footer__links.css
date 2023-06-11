@@ -12,7 +12,6 @@
   .footer__links {
    flex-direction: column;
    justify-content: start;
-   align-items: start;
    row-gap: 32px;
   } 
 }
