@@ -8,3 +8,9 @@
   line-height: 16px;
   font-weight: 400;
 }
+
+@media (max-width: 767px) {
+  .footer__copyright {
+   padding: 48px 0 0;
+  }
+}
